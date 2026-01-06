@@ -1,0 +1,11 @@
+# Virtual env
+readmission-env/
+venv/
+.env/
+
+# Data
+data/raw/
+data/processed/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
